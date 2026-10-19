@@ -68,7 +68,7 @@ Rekaman layar     : https://www.youtube.com/watch?v=hcos9_8Qx4s
 
 ## F. Catatan Refleksi & Permohonan Maaf kepada Dosen Pengampu
 
-Kepada Yth. Dosen Pengampu Mata Kuliah PBO,
+Kepada Yth. Dosen Pengampu Mata Kuliah PBO Bapak Edwin Hari Agus Prasetyo. S.Kom, M.Kom.,
 
 Melalui lembar ini, saya menyampaikan permohonan maaf yang sebesar-besarnya terkait durasi pengerjaan saya yang cukup panjang (total 2 jam 1 menit) dan atas keterbukaan saya selama proses live coding.
 
